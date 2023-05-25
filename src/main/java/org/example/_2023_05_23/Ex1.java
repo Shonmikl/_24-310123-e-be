@@ -1,7 +1,5 @@
 package org.example._2023_05_23;
 
-import java.util.Arrays;
-
 public class Ex1 {
     private static boolean isSym(int[] arr) {
         int start = 0;
