@@ -1,6 +1,7 @@
 package org.example._2023_05_25;
 
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.Random;
 
 public class Ex2 {
@@ -18,13 +19,16 @@ public class Ex2 {
         return a + b;
     }
 
+//    private Character getEx() {
+//        //
+//        return new ArrayIndexOutOfBoundsException();
+//    }
+
     public static void main(String[] args) {
         int s1 = sum(5, 9);
         int a = sum(1,2);
 
         int b = sum(s1, a);
         System.out.println(Arrays.toString(createRandomArray(22, 55)));
-
-
     }
 }
