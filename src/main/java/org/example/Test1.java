@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example._2023_06_08.POJO;
+
 import java.util.Arrays;
 
 public class Test1 {
@@ -18,5 +20,9 @@ public class Test1 {
         for (int i = 0; i < 10; i++) {
 
         }
+
+        POJO pojo = new POJO("II", 11);
+        pojo.setSalary(9999999);
     }
+
 }
