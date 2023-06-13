@@ -1,0 +1,10 @@
+Учить все
+Задачи
+Дженерики
+
+Egor - List
+Said - LL differ AL
+Владислав - Set
+Ksenia - Comparator, Comparable
+Mihail - Iterator
+

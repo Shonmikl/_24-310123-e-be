@@ -62,7 +62,7 @@ class Student implements Comparable<Student> {
     }
 }
 
-class StudentAgeComparator implements Comparator<Student>{
+class StudentAgeComparator implements Comparator<Student> {
 
     @Override
     public int compare(Student o1, Student o2) {
