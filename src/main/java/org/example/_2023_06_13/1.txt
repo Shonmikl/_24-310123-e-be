@@ -1,3 +1,10 @@
 Проверить все свойства листов и СЕТ, кто не выучил оценка 2
 Модификаторы доступа спросить
 Практика
+
+
+* 5.Получить все ключи Map<Integer, Boolean>, у которых значение равно true, и вернуть их в виде списка.
+     * public static List<Integer> findTrueKeys(Map<Integer, Boolean> inputMap)
+
+* 3.Проверить, все ли значения в Map<Integer, Boolean> равны true.
+     * public static boolean allValuesTrue(Map<Integer, Boolean> inputMap)

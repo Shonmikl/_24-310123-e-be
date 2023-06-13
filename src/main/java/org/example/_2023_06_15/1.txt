@@ -1,6 +1,8 @@
 Учить все
 Задачи
 Дженерики
+MAP - добить
++ HashTable
 
 Egor - List
 Said - LL differ AL
