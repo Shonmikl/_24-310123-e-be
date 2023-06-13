@@ -20,9 +20,11 @@ public class Test1 {
         for (int i = 0; i < 10; i++) {
 
         }
-
+//             TYPE x = new 5(constructor)
         POJO pojo = new POJO("II", 11);
         pojo.setSalary(9999999);
+        new POJO("WS", 654d).setSalary(123);
+
     }
 
 }
