@@ -2,6 +2,7 @@ package org.example;
 
 import org.example._2023_06_08.POJO;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Test1 {
@@ -14,6 +15,7 @@ public class Test1 {
     }
 
     public static void main(String[] args) {
+
         int[] array = {2, 4, 1, 2, 7};
 
 

@@ -1,12 +1,9 @@
 Учить все
-Задачи
 Дженерики
-MAP - добить
-+ HashTable
++ [][]
 
-Egor - List
-Said - LL differ AL
-Владислав - Set
-Ksenia - Comparator, Comparable
-Mihail - Iterator
+Said - LL differ AL +++
+Владислав - Set +++
+Ksenia - Comparator, Comparable +++
+Mihail - Iterator +++
 
