@@ -1,0 +1,11 @@
+Учить все
+
+Anna++
+Said - Set
+Egor - Map + HashMap
+Bogdan - Interface!
+Ksenia - AC
+Vladislav - Object
+Alexander - OOP/ все принципы
+Mikhail - JVM, JRE, JIT, JDK
+Nam - static and non static, access modifier

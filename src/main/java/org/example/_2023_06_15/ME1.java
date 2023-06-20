@@ -1,6 +1,8 @@
 package org.example._2023_06_15;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class ME1 {
@@ -14,9 +16,15 @@ public class ME1 {
         periodMap.putIfAbsent(1, "RRR");
 
         System.out.println(periodMap);
+        List<Integer> list = new ArrayList<>();
 
-        for (Map.Entry<Integer, String> s : periodMap.entrySet()) {
-
+        for (Integer s : periodMap.keySet()) {
+            list.add(s);
         }
+
+
+//        for (Map.Entry<Integer, String> s : periodMap.entrySet()) {
+//
+//        }
     }
 }
