@@ -2,6 +2,7 @@ package org.example;
 
 public class Test1 {
     void m1(){
+        System.out.println(5);
     }
 
     static void m2() {
