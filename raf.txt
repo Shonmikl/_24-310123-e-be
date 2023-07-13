@@ -1,6 +1,9 @@
-'First Dates' abría un día más sus puertas para ofrecer a  un
-grupo de solteros una nueva oportunidad en el amor. La última
-entrega del programa de Carlos Sobera cruzaba los caminos de
-Javier, un joven emprendedor tiene diferentes negocios relacionados
-con el mundo del pádel, y de Núria, una mallorquina que le apasionan
-los animales.
+В мае 2023 года команда ГК Юзтех
+организовала в Томске Usetech Meetup
+«Тренды мобильной разработки», где своим
+опытом поделились эксперты российского ИТ-рынка.
+По итогам мероприятия мы написали серию статей,
+каждая из которых посвящена актуальным вопросам
+и транслирует выступление одного из спикеров.
+Начнем с выступления Алексея Гладкова, Mobile
+Developer компании Тинькофф.
