@@ -25,9 +25,9 @@ Java Streams: Flat map.
 Java Streams: Collectors and Custom Collectors.
 
 *********************Input and Output in Java.*********************
-++Introduction to Input and Output in Java
-++Reading/Writing of bytes.
-++Reading/Writing of strings.
+Introduction to Input and Output in Java
+Reading/Writing of bytes.
+Reading/Writing of strings.
 
 *********************************General and repetition***************************
 ++Regular expressions. Basics. Regular Expressions, Java RegExp

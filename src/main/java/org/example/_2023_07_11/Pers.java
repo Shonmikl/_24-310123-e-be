@@ -1,6 +1,5 @@
 package org.example._2023_07_11;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.ToString;
 
