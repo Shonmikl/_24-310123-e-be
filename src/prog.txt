@@ -34,7 +34,7 @@ Reading/Writing of strings.
 Class String and its methods. Immutable. StringBuilder, StringBuffer, performance test.
 Generics,
 Object.equals
-++Exceptions.
+Exceptions.
 ++Unit testing. JUnit.
 !!LocalDate, LocalDateTime, ZonedDateTime, exercises.
 
