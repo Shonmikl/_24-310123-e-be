@@ -19,7 +19,7 @@ import java.util.regex.Pattern;
  * RE+ - 1 или больше повторений
  * RE{n} - n повторений
  * RE{n,m} повторения от n - m
- * RE{n,} n +.........
+ * RE{n,} от n до бесконечности
  */
 public class Re2 {
     public static void main(String[] args) {
