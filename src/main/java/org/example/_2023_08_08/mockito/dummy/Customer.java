@@ -13,7 +13,4 @@ public class Customer {
 		this.lName = lName;
 		this.address = address;
 	}
-
-	public Customer() {
-	}
 }

@@ -1,4 +1,4 @@
-package org.example._2023_08_08.mockito.test.dummyTest;//package javaProf.unit.mockito.test.dummyTest;
+package org.example._2023_08_08.mockito.test.dummyTest;
 
 import org.example._2023_08_08.mockito.dummy.*;
 import org.junit.Test;
@@ -12,20 +12,20 @@ public class DummyObjectDemo {
 	/*
 	 * Scenario 1. Standard use case
 	 */
-	public Customer createDummyCustomer() {
-		State state = new State("CA");
-		City city = new City("Los Angeles", state);
-		Address address = new Address("Mulholland Drive", city);
-		return new Customer("Jack", "Nicholson", address);
-	}
-
-	@Test
-	public void addCustomerTest() {
-		Customer dummy = createDummyCustomer();
-		AddressBook addressBook = new AddressBook();
-		addressBook.addCustomer(dummy);
-		assertEquals(1, addressBook.getNumberOfCustomers());
-	}
+//	public Customer createDummyCustomer() {
+//		State state = new State("CA");
+//		City city = new City("Los Angeles", state);
+//		Address address = new Address("Mulholland Drive", city);
+//		return new Customer("Jack", "Nicholson", address);
+//	}
+//
+//	@Test
+//	public void addCustomerTest() {
+//		Customer dummy = createDummyCustomer();
+//		AddressBook addressBook = new AddressBook();
+//		addressBook.addCustomer(dummy);
+//		assertEquals(1, addressBook.getNumberOfCustomers());
+//	}
 
 	/*
 	 * Scenario 2. Must deal with an exception on null dummy

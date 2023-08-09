@@ -1,21 +1,17 @@
 package org.example;
 
 public class Test1 {
-    void m1(){
-        System.out.println(5);
+    private static int get(int a, int b) { // a2 b4
+        return 450;
     }
 
-    static void m2() {
+    private static int get2(int a, int b) {
+        if(a == 100) throw new IllegalArgumentException();
+        return a*10 + b;
     }
 
     public static void main(String[] args) {
-        m2();
-        Test55555.m3();
-        new Test1().m1();
+        int a = get(40, 50);
     }
-}
 
-class Test55555 {
-    static void m3() {
-    }
 }
