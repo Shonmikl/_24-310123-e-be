@@ -22,7 +22,7 @@ class SimpleAuditServiceTest {
     AuditService auditService;
 
 	@Test
-	public void testAuditLogEntryMadeForNewTrade() throws Exception {
+	public void testAuditLogEntryMadeForNewTrade() {
 		when(tradeRepository.createTrade(trade)).thenReturn(anyLong());
 
 		TradingService tradingService = new SimpleTradingService(tradeRepository, auditService);
