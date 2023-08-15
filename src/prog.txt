@@ -35,7 +35,7 @@ Class String and its methods. Immutable. StringBuilder, StringBuffer, performanc
 Generics,
 Object.equals
 Exceptions.
-++Unit testing. JUnit.
+Unit testing. JUnit.
 !!LocalDate, LocalDateTime, ZonedDateTime, exercises.
 
 *************************Multithreading*************************************
