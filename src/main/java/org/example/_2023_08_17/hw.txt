@@ -10,7 +10,7 @@ MARGIN - процент прибыли с единицы товара если �
 ISDEBT - должна ли магазину какая либо FACTORY.
 
 
-   [CATEGORY#N]    [NAME#N] [FACTORY#N][QUANTITY#N][ISPACKED#N][ISADV#N][PRICE#N][MARGIN#N][ISDEBT#N]
+   [CATEGORY#N]     [NAME#N] [FACTORY#N][QUANTITY#N][ISPACKED#N][ISADV#N][PRICE#N][MARGIN#N][ISDEBT#N]
 [(CATEGORY)FOOD#1] [Pasta#1][Barilla#1]   [150#1]    [true#1]  [false#1] [1.49#1]  [15.0#1]  [false#1]
 
 Вам необходимо:
