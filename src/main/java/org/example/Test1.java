@@ -6,8 +6,8 @@ public class Test1 {
     }
 
     private static int get2(int a, int b) {
-        if(a == 100) throw new IllegalArgumentException();
-        return a*10 + b;
+        if (a == 100) throw new IllegalArgumentException();
+        return a * 10 + b;
     }
 
     public static void main(String[] args) {
