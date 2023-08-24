@@ -1,4 +1,4 @@
-package org.example._2023_08_24.part2;//package org.example._2023_08_24.part2;
+//package org.example._2023_08_24.part2;
 //
 //public class Main {
 //    public static void main(String[] args) {
