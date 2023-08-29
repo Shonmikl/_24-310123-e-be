@@ -1,7 +1,7 @@
 package org.example._2023_08_17;
 
 public class MTEX10 extends Thread {
-    volatile boolean b = true;
+   volatile boolean b = true;
 
     @Override
     public void run() {
@@ -9,7 +9,7 @@ public class MTEX10 extends Thread {
        while (b) {
            counter++;
        }
-        System.out.println("COUNTER: " + counter);
+       System.out.println("COUNTER: " + counter);
     }
 
     public static void main(String[] args) throws InterruptedException {
