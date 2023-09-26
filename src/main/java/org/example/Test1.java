@@ -5,13 +5,14 @@ public class Test1 {
         return 450;
     }
 
-    private static int get2(int a, int b) {
+    public int get2(int a, int b) {
         if (a == 100) throw new IllegalArgumentException();
         return a * 10 + b;
     }
 
     public static void main(String[] args) {
-        int a = get(40, 50);
+        Test1 test1 = null;
+        test1.get2(1,4);
     }
 
 }
