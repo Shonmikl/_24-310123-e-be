@@ -1,6 +1,8 @@
 package org.example;
 
 public class Test1 {
+
+
     private static int get(int a, int b) { // a2 b4
         return 450;
     }
